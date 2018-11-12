@@ -1,0 +1,6 @@
+C:\Workspace\_Code\StructuralDesignPatterns\StructuralDesignPatterns\bin\Debug\StructuralDesignPatterns.exe.config
+C:\Workspace\_Code\StructuralDesignPatterns\StructuralDesignPatterns\bin\Debug\StructuralDesignPatterns.exe
+C:\Workspace\_Code\StructuralDesignPatterns\StructuralDesignPatterns\bin\Debug\StructuralDesignPatterns.pdb
+C:\Workspace\_Code\StructuralDesignPatterns\StructuralDesignPatterns\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+C:\Workspace\_Code\StructuralDesignPatterns\StructuralDesignPatterns\obj\Debug\StructuralDesignPatterns.exe
+C:\Workspace\_Code\StructuralDesignPatterns\StructuralDesignPatterns\obj\Debug\StructuralDesignPatterns.pdb

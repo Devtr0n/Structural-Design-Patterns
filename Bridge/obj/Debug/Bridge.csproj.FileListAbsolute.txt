@@ -1,0 +1,6 @@
+C:\Workspace\_Code\StructuralDesignPatterns\Bridge\bin\Debug\Bridge.exe.config
+C:\Workspace\_Code\StructuralDesignPatterns\Bridge\bin\Debug\Bridge.exe
+C:\Workspace\_Code\StructuralDesignPatterns\Bridge\bin\Debug\Bridge.pdb
+C:\Workspace\_Code\StructuralDesignPatterns\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+C:\Workspace\_Code\StructuralDesignPatterns\Bridge\obj\Debug\Bridge.exe
+C:\Workspace\_Code\StructuralDesignPatterns\Bridge\obj\Debug\Bridge.pdb

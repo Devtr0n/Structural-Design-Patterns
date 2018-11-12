@@ -1,0 +1,5 @@
+C:\Workspace\_Code\StructuralDesignPatterns\Facade\bin\Debug\Facade.exe.config
+C:\Workspace\_Code\StructuralDesignPatterns\Facade\bin\Debug\Facade.exe
+C:\Workspace\_Code\StructuralDesignPatterns\Facade\bin\Debug\Facade.pdb
+C:\Workspace\_Code\StructuralDesignPatterns\Facade\obj\Debug\Facade.exe
+C:\Workspace\_Code\StructuralDesignPatterns\Facade\obj\Debug\Facade.pdb

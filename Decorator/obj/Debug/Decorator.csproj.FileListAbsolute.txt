@@ -1,0 +1,6 @@
+C:\Workspace\_Code\StructuralDesignPatterns\Decorator\bin\Debug\Decorator.exe.config
+C:\Workspace\_Code\StructuralDesignPatterns\Decorator\bin\Debug\Decorator.exe
+C:\Workspace\_Code\StructuralDesignPatterns\Decorator\bin\Debug\Decorator.pdb
+C:\Workspace\_Code\StructuralDesignPatterns\Decorator\obj\Debug\Decorator.exe
+C:\Workspace\_Code\StructuralDesignPatterns\Decorator\obj\Debug\Decorator.pdb
+C:\Workspace\_Code\StructuralDesignPatterns\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache

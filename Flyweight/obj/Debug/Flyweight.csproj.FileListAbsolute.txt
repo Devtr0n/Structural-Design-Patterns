@@ -1,0 +1,5 @@
+C:\Workspace\_Code\StructuralDesignPatterns\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Workspace\_Code\StructuralDesignPatterns\Flyweight\bin\Debug\Flyweight.exe
+C:\Workspace\_Code\StructuralDesignPatterns\Flyweight\bin\Debug\Flyweight.pdb
+C:\Workspace\_Code\StructuralDesignPatterns\Flyweight\obj\Debug\Flyweight.exe
+C:\Workspace\_Code\StructuralDesignPatterns\Flyweight\obj\Debug\Flyweight.pdb

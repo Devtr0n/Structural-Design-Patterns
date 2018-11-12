@@ -1,0 +1,6 @@
+C:\Workspace\_Code\StructuralDesignPatterns\Composite\bin\Debug\Composite.exe.config
+C:\Workspace\_Code\StructuralDesignPatterns\Composite\bin\Debug\Composite.exe
+C:\Workspace\_Code\StructuralDesignPatterns\Composite\bin\Debug\Composite.pdb
+C:\Workspace\_Code\StructuralDesignPatterns\Composite\obj\Debug\Composite.exe
+C:\Workspace\_Code\StructuralDesignPatterns\Composite\obj\Debug\Composite.pdb
+C:\Workspace\_Code\StructuralDesignPatterns\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
