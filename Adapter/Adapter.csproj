@@ -7,8 +7,8 @@
     <ProjectGuid>{7D70A06A-BB9A-4009-B321-5FC9832FBE41}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>StructuralDesignPatterns</RootNamespace>
-    <AssemblyName>StructuralDesignPatterns</AssemblyName>
+    <RootNamespace>Adapter</RootNamespace>
+    <AssemblyName>Adapter</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

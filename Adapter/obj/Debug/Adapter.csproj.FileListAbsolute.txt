@@ -4,3 +4,9 @@ C:\Workspace\_Code\StructuralDesignPatterns\StructuralDesignPatterns\bin\Debug\S
 C:\Workspace\_Code\StructuralDesignPatterns\StructuralDesignPatterns\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
 C:\Workspace\_Code\StructuralDesignPatterns\StructuralDesignPatterns\obj\Debug\StructuralDesignPatterns.exe
 C:\Workspace\_Code\StructuralDesignPatterns\StructuralDesignPatterns\obj\Debug\StructuralDesignPatterns.pdb
+C:\Workspace\_Code\StructuralDesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+C:\Workspace\_Code\StructuralDesignPatterns\Adapter\bin\Debug\Adapter.exe
+C:\Workspace\_Code\StructuralDesignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Workspace\_Code\StructuralDesignPatterns\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+C:\Workspace\_Code\StructuralDesignPatterns\Adapter\obj\Debug\Adapter.exe
+C:\Workspace\_Code\StructuralDesignPatterns\Adapter\obj\Debug\Adapter.pdb
